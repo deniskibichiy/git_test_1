@@ -1,0 +1,2 @@
+Add some text to this file and see what it does to the
+current git status.
